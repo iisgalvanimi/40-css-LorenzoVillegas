@@ -21,6 +21,8 @@ hr {
     background-color: orange;
     padding-top: 10px;
     padding-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 .upper-div-link {
@@ -46,6 +48,9 @@ h3, p {
     flex-direction: column;
     align-items: flex-end;
     margin-top: 10px;
+    margin-left: 160px;
+    margin-right: 160px;
+    border: 2px double rgba(66, 3, 3, 0.247);
   }
 
 .item {
